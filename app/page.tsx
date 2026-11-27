@@ -102,7 +102,8 @@ export default function Home() {
       </div></section>
 
       <footer><div className="wrap">
-        <span>© {new Date().getFullYear()} Redgrid Software</span><span>Software consultancy</span>
+        <span>© {new Date().getFullYear()} Redgrid Software</span>
+        <span><a href="https://github.com/redgrid-ai/redgrid-ai" target="_blank" rel="noopener noreferrer">GitHub</a></span>
       </div></footer>
     </>
   );
